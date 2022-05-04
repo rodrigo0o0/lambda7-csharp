@@ -1,0 +1,8 @@
+C:\Users\sande\source\repos\lambda7-csharp\lambda7-csharp\obj\Debug\lambda7-csharp.csproj.AssemblyReference.cache
+C:\Users\sande\source\repos\lambda7-csharp\lambda7-csharp\obj\Debug\lambda7-csharp.csproj.SuggestedBindingRedirects.cache
+C:\Users\sande\source\repos\lambda7-csharp\lambda7-csharp\obj\Debug\lambda7-csharp.csproj.CoreCompileInputs.cache
+C:\Users\sande\source\repos\lambda7-csharp\lambda7-csharp\bin\Debug\lambda7-csharp.exe.config
+C:\Users\sande\source\repos\lambda7-csharp\lambda7-csharp\bin\Debug\lambda7-csharp.exe
+C:\Users\sande\source\repos\lambda7-csharp\lambda7-csharp\bin\Debug\lambda7-csharp.pdb
+C:\Users\sande\source\repos\lambda7-csharp\lambda7-csharp\obj\Debug\lambda7-csharp.exe
+C:\Users\sande\source\repos\lambda7-csharp\lambda7-csharp\obj\Debug\lambda7-csharp.pdb
